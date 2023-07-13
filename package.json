@@ -15,7 +15,7 @@
     "vue-router": "^4.0.1"
   },
   "devDependencies": {
-    "autoprefixer": "^9.8.6",
+    "autoprefixer": "^9.8.8",
     "postcss": "^7.0.35",
     "@vue/compiler-sfc": "^3.0.4",
     "cross-env": "^7.0.3",
