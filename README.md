@@ -23,7 +23,3 @@ yarn
 yarn dev
 yarn build
 ```
-
-### Bonus
-
-[CodePen Template](https://codepen.io/web2033/pen/QWNbwxY) with a similar stack (Vue 3.x + Tailwind 2.x + Inter var font)
